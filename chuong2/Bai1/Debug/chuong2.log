@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Dev\hieu-sourcecode\chuong2\Bai1\Source.cpp(6,31): warning C4101: 'tien': unreferenced local variable
+  chuong2.vcxproj -> D:\Dev\hieu-sourcecode\chuong2\Bai1\Debug\Bai1.exe
